@@ -40,7 +40,7 @@ input[type=text] {
 
 .card {
     border-radius: 4px;
-    background-color: rgb(105, 109, 112);
+    background-color: none;
     border: 1px solid grey;
     padding-top: 2vh;
 }
